@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f2a5a6c-b09e-488d-977c-eeb58c470bfa" name="Default" comment="" />
+    <list default="true" id="1f2a5a6c-b09e-488d-977c-eeb58c470bfa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/AllPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/DeleteDuplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/EntryNodeOfLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/FindFirstComonNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/FindKthToTail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/FindNumberAppearanceOnceInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/FindTwoNumberEqualKInIncreaseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/FirstCharOnlyOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/GetNumberOfK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/LeftRotateString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/Median.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/MergeTwoSortLinked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/MinNumberInRotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/MoreThanHalfNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/NumberOf1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/OddformerEvenAfter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/PrintListFromTailToHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/PushAndPopMate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/StrToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/StringReplaceSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/TwoQueueImplementStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/TwoStackImplementQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指offer/VerifySequenceOfBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/位运算/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/位运算/NumberOf1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,92 +42,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetNumberOfK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组/GetNumberOfK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Median.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组/Median.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberOf1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberOf1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/位运算/NumberOf1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="780">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Add.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Add.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/位运算/Add.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeftRotateString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/字符串/LeftRotateString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinNumberInRotateArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组/MinNumberInRotateArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoreThanHalfNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组/MoreThanHalfNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OddformerEvenAfter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组/OddformerEvenAfter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringReplaceSpace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/字符串/StringReplaceSpace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StrToInt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/字符串/StrToInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -111,14 +69,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/二叉树/TreeDepth.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/PrintFromUptoBottomBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/PrintOfDifferenceLine.java" />
         <option value="$PROJECT_DIR$/src/LinePrintFromUpToBottomBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/GetNumberOfK.java" />
@@ -168,6 +127,8 @@
         <option value="$PROJECT_DIR$/src/字符串/StrToInt.java" />
         <option value="$PROJECT_DIR$/src/数组/GetNumberOfK.java" />
         <option value="$PROJECT_DIR$/src/数组/Median.java" />
+        <option value="$PROJECT_DIR$/src/二叉树/VerifySequenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/位运算/NumberOf1.java" />
       </list>
     </option>
   </component>
@@ -180,12 +141,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTreeKthSmallNode">
+  <component name="RunManager" selected="Application.NumberOf1">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="位运算.Add" />
       <module name="剑指offer" />
@@ -271,13 +233,19 @@
       <module name="剑指offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TreeDepth" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二叉树.TreeDepth" />
+    <configuration name="NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="位运算.NumberOf1" />
       <module name="剑指offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="位运算.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="VerifySequenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二叉树.VerifySequenceOfBST" />
+    <configuration name="TreeDepth" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二叉树.TreeDepth" />
       <module name="剑指offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -324,19 +292,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TreeDepth" />
-      <item itemvalue="Application.VerifySequenceOfBST" />
       <item itemvalue="Application.DeleteDuplication" />
       <item itemvalue="Application.AllPermutation" />
       <item itemvalue="Application.Add" />
       <item itemvalue="Application.BinarySearchTreeKthSmallNode" />
+      <item itemvalue="Application.NumberOf1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOf1" />
         <item itemvalue="Application.BinarySearchTreeKthSmallNode" />
         <item itemvalue="Application.Add" />
         <item itemvalue="Application.AllPermutation" />
         <item itemvalue="Application.DeleteDuplication" />
-        <item itemvalue="Application.VerifySequenceOfBST" />
       </list>
     </recent_temporary>
   </component>
@@ -357,27 +325,27 @@
       <workItem from="1563864579470" duration="14778000" />
       <workItem from="1563892604813" duration="1715000" />
       <workItem from="1564195480492" duration="3983000" />
-      <workItem from="1564233072410" duration="2240000" />
+      <workItem from="1564233072410" duration="4796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104573000" />
+    <option name="totallyTimeSpent" value="107129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32857144" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32750398" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32857144" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -449,13 +417,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PrintOfDifferenceLine.java" />
     <entry file="file://$PROJECT_DIR$/src/IsSymmetric.java" />
-    <entry file="file://$PROJECT_DIR$/src/VerifySequenceOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/二叉树/MirrorTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -606,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/字符串/AllPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -686,10 +640,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/二叉树/VerifySequenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/数组/MoreThanHalfNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组/Median.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组/GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -714,31 +696,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组/GetNumberOfK.java">
+    <entry file="file://$PROJECT_DIR$/src/位运算/NumberOf1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组/Median.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="780">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/位运算/Add.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/位运算/NumberOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>

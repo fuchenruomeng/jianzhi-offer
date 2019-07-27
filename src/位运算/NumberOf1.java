@@ -9,9 +9,21 @@ public class NumberOf1 {
         }
       return  count;
     }
+    public int NumberOfOne(int n){
+        int count=0;
+        while (n!=0) {
+            if ((n & 1) == 1) {
+                count++;
+            }
+            n=n>>1;
+        }
+        return count;
+    }
     public static void main(String [] args){
         NumberOf1 a=new NumberOf1();
-        int result=a.NumberOf1(111);
-        System.out.print(result);
+        int result1=a.NumberOf1(111);
+        int result2=a.NumberOfOne(111);
+        System.out.print(result1);
+        System.out.print(result2);
     }
 }
