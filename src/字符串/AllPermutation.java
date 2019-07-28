@@ -19,7 +19,8 @@ public class AllPermutation {
         }else {
             Set<Character> set=new HashSet<Character>();
             for(int j=i;j<arr.length;j++){
-                if(!set.contains(arr[j])) {
+                if(!set.contains(arr[j])) //set存不重复的字符
+                     {
                     set.add(arr[j]);
                     swap(arr, i, j);
                     core(arr, list, i + 1);
