@@ -31,6 +31,36 @@ public class Sort {
               arr[i]=temp;
           }
       }
+      //插入排序
+    public void InsertSort(int [] arr){
+         int j;
+          for(int i=1;i<arr.length;i++){
+              if(arr[i]<arr[i-1]){
+                  int temp=arr[i];
+                  for ( j=i-1;j>=0&&arr[j]>temp;j--){
+                      arr[j+1]=arr[j];
+                  }
+                  arr[j+1]=temp;
+              }
+          }
+    }
+    //希尔排序
+    public void ShellSort(int [] arr){
+          int increment=arr.length/2;
+          while (increment>=1){
+              for (int i=increment;i<arr.length;i++){
+                  if (arr[i]<arr[i-increment]){
+                      int temp=arr[i];
+                      int j=0;
+                      for(j=i-increment;j>=0&&arr[j]>temp;j-=increment){
+                          arr[j+increment]=arr[j];
+                      }
+                      arr[j+increment]=temp;
+                  }
+              }
+              increment=increment/2;
+          }
+    }
       //归并排序
       public void MergeSort(int [] arr){
           int start=0;
@@ -140,7 +170,9 @@ public class Sort {
         //  int [] temp=new int[4];
         // s.MergeSort(arr);
          // s.Quick(arr);
-          s.HeapSort(arr);
+       //   s.HeapSort(arr);
+         // s.InsertSort(arr);
+          s.ShellSort(arr);
           for(int i=0;i<arr.length;i++){
               System.out.print(arr[i]+" ");
           }
